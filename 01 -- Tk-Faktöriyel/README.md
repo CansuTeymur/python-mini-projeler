@@ -1,5 +1,3 @@
 Faktöriyel hesaplama.
 
-
-
-![](imagess/01/factorial.png)
+![](/imagess/01/factorial.png)
